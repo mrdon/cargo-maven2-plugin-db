@@ -186,6 +186,7 @@
   </profiles>
     <scm>
         <connection>scm:git:git://github.com/mrdon/cargo-maven2-plugin-db.git</connection>
+        <developerConnection>scm:git:git://github.com/mrdon/cargo-maven2-plugin-db.git</developerConnection>
         <url>scm:git:git://github.com/mrdon/cargo-maven2-plugin-db.git</url>
     </scm>
     <distributionManagement>
