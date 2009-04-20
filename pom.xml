@@ -26,7 +26,7 @@
   <groupId>org.twdata.maven</groupId>
   <artifactId>cargo-maven2-plugin</artifactId>
   <name>Cargo Maven 2 Plugin</name>
-  <version>1.0-beta-2-db2</version>
+  <version>1.0-beta-2-db3-SNAPSHOT</version>
   <packaging>maven-plugin</packaging>
   <description>Cargo Maven 2 Plugin</description>
   <dependencies>
